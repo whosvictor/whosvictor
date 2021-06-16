@@ -8,7 +8,7 @@
  ##
  
 ### Meet me:
-<a href="https://www.linkedin.com/in/victor-feires-3962131b7" target="_blank">
+<a href="https://www.linkedin.com/in/victor-freires-3962131b7" target="_blank">
 <img align="center" alt="laura-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/victor.freires/" target="_blank">
