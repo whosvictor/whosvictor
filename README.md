@@ -1,5 +1,5 @@
- # Hello, I'm Victor Freires! :wave: 
-### systems analysis technician ⚙️
+ # Hello, I'm Victor Freires! 🧛‍♂️
+### Systems Analysis technician ⚙️
 ### Future control and automation engineer 🦾
 ### Learning: Python and JavaScript <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JS" width="40" height="40" style="max-width:100%;">
 
