@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new tools and technologies to develop software and solve problems.
 - 🎓 &nbsp; Studying **Control Engineering and Automation** at <a href="http://szn.ifsp.edu.br/portal2/">IFSP - Campus Suzano</a>.
-- 🌱 &nbsp; Learning more about full stack development and process automation with IA.
+- 🌱 &nbsp; Learning about development and process automation with IA.
 
 
  ##
