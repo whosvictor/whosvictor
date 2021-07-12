@@ -5,7 +5,7 @@
 <h3> About me:</h3>
 
 - 🤔 &nbsp; Exploring new tools and technologies to develop software and solve problems.
-- 🎓 &nbsp; Studying **Control Engineering and Automation** at <a href="http://szn.ifsp.edu.br/portal2/">IFSP - Campus Suzano</a>.
+- 🎓 &nbsp; Studying **Analysis and Systems Development** at <a href="https://spo.ifsp.edu.br/">IFSP - Campus São Paulo</a>.
 - 🌱 &nbsp; Learning about development and process automation with IA.
 
 
