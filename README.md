@@ -1,12 +1,12 @@
  # Hello, I'm Victor Freires! 🧛‍♂
-### Future Control and Automation Engineer <img src="https://cdn.icon-icons.com/icons2/2621/PNG/512/tech_electronics_icon_156954.png" alt="tech" width="35" height="35" style="max-width:90%;"></img>
+### Future Developer <img src="https://cdn.icon-icons.com/icons2/2621/PNG/512/tech_electronics_icon_156954.png" alt="tech" width="35" height="35" style="max-width:90%;"></img>
 ### Learning: Python and JavaScript <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JS" width="40" height="40" style="max-width:100%;">
 
 <h3> About me:</h3>
 
 - 🤔 &nbsp; Exploring new tools and technologies to develop software and solve problems.
-- 🎓 &nbsp; Studying **Analysis and Systems Development** at <a href="https://spo.ifsp.edu.br/">IFSP - Campus São Paulo</a>.
-- 🌱 &nbsp; Learning about development and process automation with IA.
+- 🎓 &nbsp; Studying **Analysis and Systems Development** at <a href="https://gru.ifsp.edu.br/">IFSP - Guarulhos</a>.
+- 🌱 &nbsp; Learning about development and tests with IA.
 
 
  ##
