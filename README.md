@@ -1,5 +1,5 @@
  # Hello, I'm Victor Freires! 🧛‍♂
-### Data Egineer Jr. <img src="https://cdn.icon-icons.com/icons2/2621/PNG/512/tech_electronics_icon_156954.png" alt="tech" width="35" height="35" style="max-width:90%;"></img>
+### Data Egineer <img src="https://cdn.icon-icons.com/icons2/2621/PNG/512/tech_electronics_icon_156954.png" alt="tech" width="35" height="35" style="max-width:90%;"></img>
 ### Learning: Python and SQL <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img> <img src="https://cdn.icon-icons.com/icons2/628/PNG/512/sql-document_icon-icons.com_57634.png" alt="sql" width="40" height="40" style="max-width:100%;">
 
 <h3> About me:</h3>
